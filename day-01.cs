@@ -11,7 +11,7 @@ namespace MyApplication
 
     static void Main(string[] args)
     {
-      Console.WriteLine(MyMethod(y:5));
+      Console.WriteLne(MyMethod(y:5));
     }
   }
 }
